@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.31d6cfe0.css",
-    "main.js": "/react-gh-pages/static/js/main.9b938962.js",
-    "static/media/video.png": "/react-gh-pages/static/media/video.76c9c5349997b6ba216f.png",
-    "static/media/logo.svg": "/react-gh-pages/static/media/logo.f0546b527ec4b043488f340ec0515483.svg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.9b938962.js.map": "/react-gh-pages/static/js/main.9b938962.js.map"
+    "main.css": "/fabac/static/css/main.31d6cfe0.css",
+    "main.js": "/fabac/static/js/main.b2b6f5ab.js",
+    "static/media/video.png": "/fabac/static/media/video.76c9c5349997b6ba216f.png",
+    "static/media/logo.svg": "/fabac/static/media/logo.f0546b527ec4b043488f340ec0515483.svg",
+    "index.html": "/fabac/index.html",
+    "main.b2b6f5ab.js.map": "/fabac/static/js/main.b2b6f5ab.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.9b938962.js"
+    "static/js/main.b2b6f5ab.js"
   ]
 }
